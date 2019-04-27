@@ -1,0 +1,11 @@
+{
+    "name": "joshdifabio/optional",
+    "require": {
+        "joshdifabio/value": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Optional\\": "src"
+        }
+    }
+}
