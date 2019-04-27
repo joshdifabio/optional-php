@@ -39,7 +39,7 @@ abstract class Optional implements Value
 
     /**
      * Returns an Optional describing the specified value, if non-null, otherwise returns an empty Optional.
-     *pwd
+     *
      * @template U
      * @param U|null $value The possibly-null value to describe
      * @return Optional<U> An Optional with a present value if the specified value is non-null, otherwise an empty
